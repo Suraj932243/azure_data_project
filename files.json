@@ -1,0 +1,26 @@
+[
+  {
+    "file_name":"AdventureWorks_Customers.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Products.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Returns.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Sales_2015.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Sales_2016.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Sales_2017.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Territories.csv"
+  },
+  {
+    "file_name":"AdventureWorks_Calendar.csv"
+  }
+]
